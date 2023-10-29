@@ -33,7 +33,10 @@ GoldenTest는 UnitTest로써, 기능을 추가했음에도 UI가 변하지 않�
 
 ## GoldenTest에 상세 설정
 ![스크린샷 2023-10-30 오전 12 50 17](https://github.com/jgwng/golden_test_example/assets/71699167/db92c5ed-4426-4671-9bb9-4562dfaa10ef)
-
+ 스크린샷 링크 Youtube Url - [
+](https://www.youtube.com/watch?v=TT22JBKyhXw&t=378s)
 
 ## GoldenTest를 PR에 활용
 ![스크린샷 2023-10-30 오전 12 52 35](https://github.com/jgwng/golden_test_example/assets/71699167/d8d358ea-082e-49da-afbb-61fc4b645cb0)
+ 스크린샷 링크 Youtube Url - [
+](https://www.youtube.com/watch?v=TT22JBKyhXw&t=378s)
